@@ -27,4 +27,4 @@ dependencies:
 
     react-dom: 16.12.0
 
-    react-scripts: 3.3.0
+    react-scripts: 3.3.0 
